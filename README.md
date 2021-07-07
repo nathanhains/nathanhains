@@ -1,10 +1,18 @@
-### Hey! Welcome to my Github
+# Nathan Hains
 
-## I'm a Developer/Student
+<br />
+
+### Hey! Welcome to my Github!
+
+<br />
+
+## Full-Time Developer, Part-Time Student, No-Time Procrastinator!
 
 -I'm a Flatiron 2021 Graduate for Software Engineering
 -I'm working towards my BA of Science at Farmingdale State College for Computer Programming
 -Looking to apply my skills for job seekers!
+
+<br />
 
 ### Connect with me:
 
@@ -36,8 +44,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/nathanhains/animate-in-style-with-framer-motion-14c1)
-- [Microinteractions: Password Validation Animation](https://dev.to/nathanhains/reducer-store-action-3h69)
+- [Animate in style with Framer Motion | Guide on simple animation](https://dev.to/nathanhains/animate-in-style-with-framer-motion-14c1)
+- [Reducer-Store-Action! | A starter guide on using Redux](https://dev.to/nathanhains/reducer-store-action-3h69)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/nathanhains)
