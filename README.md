@@ -8,8 +8,8 @@
 
 ## Full-Time Developer, Part-Time Student, No-Time Procrastinator!
 
--I'm a Flatiron 2021 Graduate for Software Engineering
--I'm working towards my BA of Science at Farmingdale State College for Computer Programming
+-I'm a Flatiron 2021 Graduate for Software Engineering <br />
+-I'm working towards my BA of Science at Farmingdale State College for Computer Programming<br />
 -Looking to apply my skills for job seekers!
 
 <br />
@@ -35,6 +35,11 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px"
+src="https://user-images.githubusercontent.com/70500787/124684814-fb2a0980-de9d-11eb-9e17-364ec2bf3d55.png" />
+<img align="left" alt="Terminal" width="26px"
+src="https://user-images.githubusercontent.com/70500787/124684886-185ed800-de9e-11eb-966b-25b8d8d32de6.png" />
+
 
 <br />
 <br />
