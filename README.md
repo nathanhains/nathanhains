@@ -18,7 +18,7 @@
 
 [<img align="left" alt="nathanhains | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCQIQZ965AOzXuzMdQ9rIKiw)
 [<img align="left" alt="nathanhains | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/NathanHains)
-[<img align="left" alt="nathanhains | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nathan-hains-050350212/)
+[<img align="left" alt="nathanhains | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nathanhains/)
 [<img align="left" alt="nathanhains | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/natehains/)
 
 <br />
