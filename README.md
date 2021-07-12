@@ -1,10 +1,8 @@
 # Nathan Hains
 
-<br />
 
 ### Hey! Welcome to my Github!
 
-<br />
 
 ## Full-Time Developer, Part-Time Student, No-Time Procrastinator!
 
