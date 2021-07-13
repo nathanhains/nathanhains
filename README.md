@@ -10,7 +10,6 @@
 -I'm working towards my BA of Science at Farmingdale State College for Computer Programming<br />
 -Looking to apply my skills for job seekers!
 
-<br />
 
 ### Connect with me:
 
