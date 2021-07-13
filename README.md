@@ -48,6 +48,7 @@ src="https://user-images.githubusercontent.com/70500787/124684814-fb2a0980-de9d-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change React boilerplate icon/text | Guide on changing boilerplate display](https://dev.to/nathanhains/how-to-change-react-boilerplate-icon-text-1l7p)
 - [Animate in style with Framer Motion | Guide on simple animation](https://dev.to/nathanhains/animate-in-style-with-framer-motion-14c1)
 - [Reducer-Store-Action! | A starter guide on using Redux](https://dev.to/nathanhains/reducer-store-action-3h69)
 <!-- BLOG-POST-LIST:END -->
