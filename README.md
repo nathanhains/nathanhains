@@ -8,7 +8,7 @@
 
 -I'm a Flatiron 2021 Graduate for Software Engineering <br />
 -I'm working towards my BA of Science at Farmingdale State College for Computer Programming<br />
--Looking to apply my skills for job seekers!
+-Currently employed with Model B as a Frontend Developer!
 
 
 ### Connect with me:
