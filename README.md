@@ -1,9 +1,5 @@
 # Nathan Hains
 
-
-### Hey! Welcome to my Github!
-
-
 ## Full-Time Engineer, No-Time Procrastinator!
 
 -Currently employed with PowerSchool as a Software Engineer!
