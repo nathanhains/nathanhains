@@ -2,7 +2,7 @@
 
 ## Full-Time Engineer, No-Time Procrastinator!
 
--Currently employed with PowerSchool as a Software Engineer!
+- Currently employed with PowerSchool as a Software Engineer!
 
 
 ### Connect with me:
